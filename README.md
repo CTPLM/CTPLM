@@ -12,7 +12,7 @@ Good estimation of unknown camera timing parameters (exposure time, frame rate, 
 - DuPont F-F cables or similar (16)
 
 <p align="center">
-  <img src="images/hw_layout.pdf" div align=center>
+  <img src="images/hw_layout.png" div align=center>
 </p> 
 
 ## Software Preparation
@@ -21,5 +21,6 @@ Good estimation of unknown camera timing parameters (exposure time, frame rate, 
 2. Clone this repository
 3. From Arduino IDE, open folder "readoutSpeed", "expTime", or "fps".
 4. **Switch pin numbering (Tools->Pin Numbering->By GPIO number (legacy)) ** 
-5. Connect device to computer and Upload
+5. Connect the device to the computer and upload
+
 
